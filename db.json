@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "label": "Vegetable Mix",
+            "title": "Vegetable Mix",
             "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=250",
             "description": "Morbi auctor leo sed neque pretium vehicula. Curabitur consectetur ornare lobortis. Donec eget aliquet nisl. Curabitur ac diam dui. Fusce sed ex odio. Vestibulum consectetur diam vel erat imperdiet, at suscipit lectus venenatis. Morbi pulvinar arcu ipsum, at semper metus dignissim vel. Maecenas a est purus. Aenean ornare maximus leo sed porta. In dapibus risus commodo ipsum faucibus, vitae ultricies nibh laoreet. Cras quis fermentum arcu. Etiam vulputate lobortis volutpat. Aliquam ultrices semper leo, egestas sodales ex laoreet ultrices. Donec mollis iaculis condimentum."
         }
